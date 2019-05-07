@@ -1,3 +1,10 @@
+<!-- Runs the adonis dev server -->
+# adonis serve --dev
+
+<!-- Runs the client server -->
+# npm run proxy
+
+
 # Adonis fullstack application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
